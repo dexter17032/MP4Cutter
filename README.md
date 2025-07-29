@@ -1,5 +1,3 @@
-# MP4Cutter
-
 # MP4Cutter (Java)
 
 MP4Cutter is a basic Java tool built to parse `.mp4` file atoms/boxes like `ftyp`, `moov`, `mdhd`, and more. It was primarily created as a learning project to better understand the MP4 file structure and binary file handling in Java.
